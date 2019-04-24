@@ -5,7 +5,7 @@ Different folders correspond to specific Vg estimate source and test populations
 
 |Vg source dataset | Test dataset | Folder |Date added|
 |- | - | - |-|
-|GTEx v7 [Ref.](https://www.nature.com/articles/nature24277) | GTEx v7 [Ref.](https://www.nature.com/articles/nature24277) | [ANEVA_DOT_frequencies_gtex_v7](https://github.com/PejLab/Datasets/tree/master/ANEVA_DOT_frequencies/ANEVA_DOT_frequencies_gtex_v7)|Apr. 2019|
+|GTEx v7 ([Ref.](https://www.nature.com/articles/nature24277)) | GTEx v7 ([Ref.](https://www.nature.com/articles/nature24277)) | [ANEVA_DOT_frequencies_gtex_v7](https://github.com/PejLab/Datasets/tree/master/ANEVA_DOT_frequencies/ANEVA_DOT_frequencies_gtex_v7)|Apr. 2019|
 
 
 The ANEVA variance estimates file, Vg, used for each folder is included in the folder. 
