@@ -1,7 +1,7 @@
 # ANEVA-DOT occurrence frequencies for GTEx v7
 This folder contains reports from running ANEVA-DOT on GTEx v7 using Vg estimates derived also from GTEx v7. Depending on the analysis occurrence rate of ANEVA-DOT genes in general population can be used to produce black lists that exclude "commonly occurring" genes from ANEVA-DOT analysis. We recommend using a 1%-5% threshold on C6 and excluding all genes exceeding this threshold. 
 
-The ANEVA variance estimates file, [Vg_GTEx_v7.txt.gz](https://github.com/PejLab/Datasets/blob/master/ANEVA_DOT_frequencies/ANEVA_DOT_frequencies_gtex_v7/Vg_GTEx_v7.txt.gz), used is included here as well. 
+The ANEVA variance estimates file used, [Vg_GTEx_v7.txt.gz](https://github.com/PejLab/Datasets/blob/master/ANEVA_DOT_frequencies/ANEVA_DOT_frequencies_gtex_v7/Vg_GTEx_v7.txt.gz), is included. Each GTEx tissue was tested using the Vg estimates from itself.
 
 The summary files are formatted as follows:
 
