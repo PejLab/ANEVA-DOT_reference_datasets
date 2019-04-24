@@ -5,10 +5,12 @@ Different folders correspond to specific Vg estimate source and test populations
 
 |Vg source dataset | Test dataset | Folder |Date added|
 |- | - | - |-|
-|C1 | IDs | ANEVA_DOT_frequencies_gtex_v7|Apr. 2019|
+|C1 | IDs | [ANEVA_DOT_frequencies_gtex_v7](https://github.com/PejLab/Datasets/tree/master/ANEVA_DOT_frequencies/ANEVA_DOT_frequencies_gtex_v7)|Apr. 2019|
 
 
-The ANEVA variance estimates file, Vg, used for each folder is included in the folder. The summary files are formatted as follows:
+The ANEVA variance estimates file, Vg, used for each folder is included in the folder. 
+
+The summary files are formatted as follows:
 
 |Index | ColumnName | Description |
 |- | - | - |
