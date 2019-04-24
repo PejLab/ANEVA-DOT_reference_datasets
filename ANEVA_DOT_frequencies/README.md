@@ -2,6 +2,7 @@
 This folder contains reports from running ANEVA-DOT on different datasets. Depending on the analysis occurrence rate of ANEVA-DOT genes in general population can be used to produce black lists that exclude "commonly occurring" genes from ANEVA-DOT analysis. We recommend using a 1%-5% threshold on C6 and excluding all genes exceeding this threshold. 
 
 Different folders correspond to specific Vg estimate source and test populations:
+
 |VG source dataset | Test dataset | Folder |Date added|
 |- | - | - |-|
 |C1 | IDs | ANEVA_DOT_frequencies_gtex_v7|Apr. 2019|
