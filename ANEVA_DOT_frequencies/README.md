@@ -3,7 +3,7 @@ This folder contains reports from running ANEVA-DOT on different datasets. Depen
 
 Different folders correspond to specific Vg estimate source and test populations:
 
-|VG source dataset | Test dataset | Folder |Date added|
+|Vg source dataset | Test dataset | Folder |Date added|
 |- | - | - |-|
 |C1 | IDs | ANEVA_DOT_frequencies_gtex_v7|Apr. 2019|
 
