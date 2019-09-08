@@ -16,7 +16,7 @@ C6 | DOT_frq_LowerBound | Lower bound for 95% confidence interval for column C5 
 C7 | DOT_frq_UpperBound | Upper bound for 95% confidence interval for column C5 |
 C8 | Is_over_1perc | This column is 1 when C6 > 0.01, that is when the lower bound for a gene appearing as ANEVA-DOT outlier is higher than 1% in GTEx population. These genes were excluded from the analysis.|
 
-[The increase in number of genes compared to GTEX V7 is as follows:](gene_numbers.png)
+![The increase in number of genes compared to GTEX V7 is as follows:](gene_numbers.png)
 
 
 
