@@ -1,4 +1,5 @@
 #Reference Vg Estimates from ANEVA
+
 This folder contains pre-calculated estimates of genetic variance of gene dosage from different reference datasets. Among other things these can be used for running ANEVA-DOT. All estimates are in natural log scale.
 
 |Vg source dataset | File | Tissue(s)|Date added|
