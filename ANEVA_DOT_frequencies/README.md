@@ -4,7 +4,7 @@ This folder contains reports from running ANEVA-DOT on different datasets. Depen
 Different folders correspond to specific Vg estimate source and test populations:
 
 |Vg source dataset | Folder |Date added|
-|- | - | - |-|
+|- | - | - |
 |GTEx v7 ([Ref.](https://www.nature.com/articles/nature24277)) | [ANEVA_DOT_frequencies_gtex_v7](https://github.com/PejLab/Datasets/tree/master/ANEVA_DOT_frequencies/ANEVA_DOT_frequencies_gtex_v7)|Apr. 2019|
 |GTEx v8 ([Ref.](https://www.nature.com/articles/nature24277)) | [ANEVA_DOT_frequencies_gtex_v8](https://github.com/PejLab/Datasets/tree/master/ANEVA_DOT_frequencies/ANEVA_DOT_frequencies_gtex_v8)|Sep. 2019|
 
