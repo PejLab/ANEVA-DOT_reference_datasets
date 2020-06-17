@@ -5,7 +5,7 @@ This folder contains pre-calculated estimates of genetic variance of gene dosage
 ```diff
 - WARNING: Previous GTEX V8 Vg values contained the Dgs instead (the square root of Vgs), this was fixed in release 2.31
 ```
-<p>Test html</p>
+<p style="color:'red';" >Test html</p>
 
 |Vg source dataset | File | Tissue(s)|Date added/Last updated|
 |- | - |-|-|
