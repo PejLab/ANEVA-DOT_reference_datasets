@@ -5,8 +5,8 @@ Different folders correspond to specific Vg estimate source and test populations
 
 |Vg source dataset | Folder |Date added|
 |- | - | - |
-|GTEx v7 ([Ref.](https://science.sciencemag.org/content/366/6463/351.abstract)) | [ANEVA_DOT_frequencies_gtex_v7](https://github.com/PejLab/ANEVA-DOT_reference_datasets/tree/master/ANEVA_DOT_frequencies/ANEVA_DOT_frequencies_gtex_v7)|Apr. 2019|
-|GTEx v8 ([Ref.](https://www.biorxiv.org/content/10.1101/786053v1.abstract)) | [ANEVA_DOT_frequencies_gtex_v8](https://github.com/PejLab/ANEVA-DOT_reference_datasets/tree/master/ANEVA_DOT_frequencies/ANEVA_DOT_frequencies_gtex_v8)|Sep. 2019|
+|GTEx v7 ([Ref.](https://science.sciencemag.org/content/366/6463/351.abstract)) | [ANEVA_DOT_frequencies_gtex_v7](https://github.com/PejLab/ANEVA-DOT_reference_datasets/tree/master/ANEVA_DOT_Blacklists_and_frequencies/ANEVA_DOT_frequencies_gtex_v7)|Apr. 2019|
+|GTEx v8 ([Ref.](https://www.biorxiv.org/content/10.1101/786053v1.abstract)) | [ANEVA_DOT_frequencies_gtex_v8](https://github.com/PejLab/ANEVA-DOT_reference_datasets/tree/master/ANEVA_DOT_Blacklists_and_frequencies/ANEVA_DOT_frequencies_gtex_v8)|Sep. 2019|
 
 
 The ANEVA variance estimates file, Vg, used for each folder is included in the folder. 
