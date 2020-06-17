@@ -2,7 +2,7 @@
 
 This folder contains pre-calculated estimates of genetic variance of gene dosage from different reference datasets. Among other things these can be used for running ANEVA-DOT. All estimates are in natural log scale.
 
-|Vg source dataset | File | Tissue(s)|Date added|
+|Vg source dataset | File | Tissue(s)|Date added/Last updated|
 |- | - |-|-|
 |GTEx v8 ([Ref.](https://www.nature.com/articles/nature24277)) | [Vg_GTEx_v8.txt.gz](https://github.com/PejLab/Datasets/blob/master/Reference_Vg_Estimates/Vg_GTEx_v8.txt.gz)| Various tissues |Jun. 2020|
 |GTEx v7 ([Ref.](https://www.nature.com/articles/nature24277)) | [Vg_GTEx_v7.txt.gz](https://github.com/PejLab/Datasets/blob/master/Reference_Vg_Estimates/Vg_GTEx_v7.txt.gz)| Various tissues |Apr. 2019|
