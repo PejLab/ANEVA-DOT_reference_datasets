@@ -3,7 +3,7 @@
 This folder contains pre-calculated estimates of genetic variance of gene dosage from different reference datasets. Among other things these can be used for running ANEVA-DOT. All estimates are in natural log scale.
 
 ```diff
-- Warning: Previous GTEX V8 Vg values contained the Dgs instead (the square root of Vgs), this was fixed in release `2.31`
+- Warning: Previous GTEX V8 Vg values contained the Dgs instead (the square root of Vgs), this was fixed in release 2.31
 ```
 
 
