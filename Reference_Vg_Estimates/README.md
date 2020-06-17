@@ -7,6 +7,10 @@ This folder contains pre-calculated estimates of genetic variance of gene dosage
 ```
 <p style="" >Test html</p>
 
+<style>
+
+</style>
+
 |Vg source dataset | File | Tissue(s)|Date added/Last updated|
 |- | - |-|-|
 |GTEx v8 ([Ref.](https://www.nature.com/articles/nature24277)) | [Vg_GTEx_v8.txt.gz](https://github.com/PejLab/Datasets/blob/master/Reference_Vg_Estimates/Vg_GTEx_v8.txt.gz)| Various tissues |Jun. 2020|
