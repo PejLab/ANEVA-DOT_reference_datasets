@@ -2,7 +2,7 @@
 Some datasets related to our work.
 
 ```diff
-- WARNING: Previous GTEX V8 Vg values contained the Dgs instead (the square root of Vgs), this was fixed in release 2.31
+- WARNING: Previous GTEX V8 Vg values contained the Dgs instead (the square root of Vgs), this was fixed in release 2.32
 ```
 
 
